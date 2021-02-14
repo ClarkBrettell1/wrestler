@@ -1,1 +1,1 @@
-# wrestler
+# Wrestler Generator
