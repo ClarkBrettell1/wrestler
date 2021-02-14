@@ -55,7 +55,7 @@ Finisher = [
     "Clingsman's Doom",
     "The Grotesque Press",
     "Cognitive Scrambler",
-    "Artillery Thompson",
+    "Smash and Grab",
     "The Spigot Splash",
     "The Juicer"
 ];
