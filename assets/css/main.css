@@ -1,0 +1,27 @@
+footer{
+    background-color: #040440;
+    height: 50px;
+    color: snow;
+    padding: 10px;
+    font-size: 20px;
+}
+
+header {
+    background-color: rgb(233, 176, 33);
+}
+
+header a {
+    text-decoration: none;
+    color: snow;
+    font-size: 20px;
+}
+
+header a:hover{
+    color: rgb(235, 229, 186);
+    transition:ease-in-out;
+    transition-duration: 200ms;
+}
+
+header a img {
+    width: 150px !important
+}
