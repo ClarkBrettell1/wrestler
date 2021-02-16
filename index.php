@@ -24,6 +24,7 @@
     gtag('config', 'G-EMQ96JCJC6');
   </script>
   <script data-ad-client="ca-pub-8796434703832284" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  
 </head>
 
 <body>
@@ -38,9 +39,9 @@
       <p class="lead">Quick and easy tool to generate a wrestler name.</p>
       <hr class="my-4">
       <p>CLick below to generate your random wrestler name.</p>
-      <a class="btn btn-primary btn-lg" id="generate" role="button">Generate Wrestler</a>
+      <a class="btn btn-primary btn-lg" id="generate" role="button" onclick="ga()">Generate Wrestler</a>
     </div>
-    <div class="card mb-3 mx-auto" style="max-width: 540px;">
+    <div class="card mb-3 mx-auto"id="wrestler" style="max-width: 540px;">
       <div class="row no-gutters">
         <div class="col-md-4">
           <img src="assets/img/ring.png" class="card-img p-2" alt="wrestler name">

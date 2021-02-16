@@ -134,5 +134,8 @@ $( "#generate" ).click(function() {
     $('#wrestlerName').html(Name[number]);
     $('#wrestlerFinish').html(Finisher[movenumber]);
     $('#wrestlerStyle').html(Style[stylenumber]);
+    $('html,body').animate({
+        scrollTop: $("#wrestler").offset().top},
+        'slow');
   });
 
