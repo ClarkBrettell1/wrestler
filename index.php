@@ -38,7 +38,7 @@
       <p class="lead">Quick and easy tool to generate a wrestler name.</p>
       <hr class="my-4">
       <p>CLick below to generate your random wrestler name.</p>
-      <a class="btn btn-primary btn-lg" href="#" id="generate" role="button">Generate Wrestler</a>
+      <a class="btn btn-primary btn-lg" id="generate" role="button">Generate Wrestler</a>
     </div>
     <div class="card mb-3 mx-auto" style="max-width: 540px;">
       <div class="row no-gutters">

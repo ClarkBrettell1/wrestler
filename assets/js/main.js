@@ -4,7 +4,7 @@ function numb() {
 }
 
 function smallnumber() {
-    return Math.floor((Math.random()* 46) + 1);
+    return Math.floor((Math.random()* 6) + 1);
 }
 
 Name = [
