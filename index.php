@@ -39,18 +39,19 @@
       <p class="lead">Quick and easy tool to generate a wrestler name.</p>
       <hr class="my-4">
       <p>Click below to generate your random wrestler name.</p>
-      <a class="btn btn-primary btn-lg" id="generate" role="button" onclick="ga()">Generate Wrestler</a>
+      <a class="btn btn-primary btn-lg" id="generate" role="button">Generate Wrestler</a>
     </div>
     <div class="card mb-3 mx-auto"id="wrestler" style="max-width: 540px;">
       <div class="row no-gutters">
         <div class="col-md-4">
-          <img src="assets/img/ring.png" class="card-img p-2" alt="wrestler name">
+          <img src="assets/img/ring.png" class="card-img p-2 my-3 mx-1" alt="wrestler name">
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h5 class="card-title">Name: <span id="wrestlerName"></span></h5>
-            <p class="card-text">Finisher: <span id="wrestlerFinish"></span></p>
-            <p class="card-text">Style: <span id="wrestlerStyle"></span></p>
+            <h5 class="card-title m-1">Name: <span id="wrestlerName"></span></h5>
+            <p class="card-text m-1">Finisher: <span id="wrestlerFinish"></span></p>
+            <p class="card-text m-1">Style: <span id="wrestlerStyle"></span></p>
+            <p class="card-text m-1">Crowd Status: <span id="wrestlerStatus"></span></p>
           </div>
         </div>
       </div>

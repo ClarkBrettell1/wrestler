@@ -1,10 +1,14 @@
 
 function numb() {
-    return Math.floor((Math.random()* 46) + 1);
+    return Math.floor((Math.random()* 51) + 1);
 }
 
 function smallnumber() {
     return Math.floor((Math.random()* 6) + 1);
+}
+
+function boolnumber() {
+    return Math.round(Math.random());
 }
 
 Name = [
@@ -54,7 +58,12 @@ Name = [
     "The Lethal Weapon",
     "The Canvas Kid",
     "Ten Pin Jim",
-    "Dangerous Doug Diehard"
+    "Dangerous Doug Diehard",
+    "The Immortal Soul",
+    "Count Smackula",
+    "King Ogre",
+    "Ruthless Rick",
+    "Chief Quarterback"
 ];
 
 Finisher = [
@@ -104,7 +113,12 @@ Finisher = [
     "Emotional Detachment",
     "Cold as Ice",
     "Clock Cleaner",
-    "The Chimney Sweep"
+    "The Chimney Sweep",
+    "Soul Sapper",
+    "Blood Sweat and Tears",
+    "Onion 1-2-3",
+    "The Funky Drop",
+    "The Rain Dance"
 ];
 
 Style = [
@@ -114,12 +128,18 @@ Style = [
     "Technician",
     "Big Man",
     "Submission Expert"
-]
+];
+
+CrowdStatus = [
+    "Babyface",
+    "Heel"
+];
 
 function populateWrestler () {
     number = numb();
     movenumber = numb();
     stylenumber = smallnumber ();
+    facenumber = boolnumber();
 
     $('#wrestlerName').html(Name[number]);
     $('#wrestlerFinish').html(Finisher[movenumber]);
@@ -130,12 +150,14 @@ $( "#generate" ).click(function() {
     number = numb();
     movenumber = numb();
     stylenumber = smallnumber ();
+    facenumber = boolnumber();
 
     $('#wrestlerName').html(Name[number]);
     $('#wrestlerFinish').html(Finisher[movenumber]);
     $('#wrestlerStyle').html(Style[stylenumber]);
+    $('#wrestlerStatus').html(CrowdStatus[facenumber]);
     $('html,body').animate({
         scrollTop: $("#wrestler").offset().top},
-        'slow');
+        'fast');
   });
 
