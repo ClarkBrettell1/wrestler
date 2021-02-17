@@ -4,7 +4,7 @@ function numb() {
 }
 
 function smallnumber() {
-    return Math.floor((Math.random()* 6) + 1);
+    return Math.floor((Math.random()* 8) + 1);
 }
 
 function boolnumber() {
@@ -127,7 +127,10 @@ Style = [
     "All Rounder",
     "Technician",
     "Big Man",
-    "Submission Expert"
+    "Submission Expert",
+    "Veteran",
+    "Hardcore",
+    "Giant"
 ];
 
 CrowdStatus = [
@@ -144,6 +147,7 @@ function populateWrestler () {
     $('#wrestlerName').html(Name[number]);
     $('#wrestlerFinish').html(Finisher[movenumber]);
     $('#wrestlerStyle').html(Style[stylenumber]);
+    $('#wrestlerStatus').html(CrowdStatus[facenumber]);
 }
 
 $( "#generate" ).click(function() {
