@@ -56,6 +56,9 @@
         </div>
       </div>
     </div>
+
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=wrestlername-21&marketplace=amazon&amp;region=GB&placement=B08LQGN1B3&asins=B08LQGN1B3&linkId=9d615a53d1cc0dbe5f7641d55185201d&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
   </main>
   <footer class="text-center">
     <script src="assets/js/main.js">
