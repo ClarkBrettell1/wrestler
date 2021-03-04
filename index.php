@@ -45,7 +45,7 @@
     <div class="card mb-3 mx-auto"id="wrestler" style="max-width: 540px;">
       <div class="row no-gutters">
         <div class="col-md-4">
-          <img src="assets/img/ring.png" class="card-img p-2 my-3 mx-1" alt="wrestler name">
+          <img src="assets/img/ring.png" class="card-img p-2 my-3 mx-1" alt="Wrestling Ring Logo">
         </div>
         <div class="col-md-8">
           <div class="card-body">
