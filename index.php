@@ -6,7 +6,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Wrestling Name Generator is a free online tool , you can click a button to generate a random wrestler name and profile">
-  <meta name="propeller" content="3332ec6b225971a933f326ebcf702782">
   <title>Wrestler Name Generator</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -70,7 +69,7 @@
     <script src="assets/js/main.js">
 
     </script>
-    <script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',3996684,document.body||document.documentElement)</script>
+  
     &#169; Copyright Clark Brettell 2021
   </footer>
 </body>
