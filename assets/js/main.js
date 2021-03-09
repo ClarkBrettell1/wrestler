@@ -1,6 +1,6 @@
 
 function numb() {
-    return Math.floor((Math.random()* 51) + 1);
+    return Math.floor((Math.random()* 72) + 1);
 }
 
 function smallnumber() {
@@ -63,7 +63,31 @@ Name = [
     "Count Smackula",
     "King Ogre",
     "Ruthless Rick",
-    "Chief Quarterback"
+    "Chief Quarterback",
+    "Chris Hopkins",
+    "Leonard Tyson",
+    "Joshua Patterson",
+    "Rambo Robinson",
+    "Sid Lunar",
+    "Marley Dawson",
+    "Hank Falls",
+    "Columbo Springstein",
+    "Kurt Lemon",
+    "Crazy Bobcat ",
+    "Willy Wildcat",
+    "Trigger",
+    "Denzel De Fense",
+    "Spice Cloud",
+    "Global Warning",
+    "Victor E Dance",
+    "Stu Goldmine",
+    "Sluice Box Kid",
+    "Mine Shaft",
+    "Mutley B Perfect",
+    "Andrew Starr",
+    "Concubine",
+    "Gomez Titan"
+
 ];
 
 Finisher = [
@@ -118,7 +142,30 @@ Finisher = [
     "Blood Sweat and Tears",
     "Onion 1-2-3",
     "The Funky Drop",
-    "The Rain Dance"
+    "The Rain Dance",
+    "The Cactus Clutch",
+    "Rainbow Drop",
+    "The Olde Oak Tree",
+    "The Summit Smash",
+    "Chapter and Verse",
+    "The Buckler",
+    "The Cannonball Bomb",
+    "The false reprieve",
+    "Culture Shock",
+    "Anaphalaxis Flip",
+    "The Turkey Twizzler",
+    "Hook Clothesline and Sinker",
+    "Picasso's Kiss",
+    "The Cosmic Spark",
+    "The Shelf of Pain",
+    "The Penultimate Milestone",
+    "The Horn of Pain",
+    "Born Again",
+    "Acro-battering Ram",
+    "Critical Condition",
+    "Blue Star Collision",
+    "End of Days",
+    "The Termination"
 ];
 
 Style = [
@@ -126,16 +173,19 @@ Style = [
     "High Flyer",
     "All Rounder",
     "Technician",
-    "Big Man",
+    "Powerhouse",
     "Submission Expert",
     "Veteran",
     "Hardcore",
-    "Giant"
+    "Giant",
+    "Martial Arts",
+    "Striker"
 ];
 
 CrowdStatus = [
     "Babyface",
-    "Heel"
+    "Heel",
+    "Tweener"
 ];
 
 function populateWrestler () {
