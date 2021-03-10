@@ -63,7 +63,72 @@
     <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=22&l=ez&f=ifr&linkID=9378e6623c3dec830c4440b3ef1b0999&t=wrestlername-21&tracking_id=wrestlername-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
     
 </div>
+<section>
+<h2 class="text-center">Frequently Asked Questions</h2>
+<div class="accordion p-2" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          What can I use the Random Wrestler Generator for?
+        </button>
+      </h2>
+    </div>
 
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <p>
+         Random Wrestler Generator can be used to generate your own wrestler name. You can use this for fun with your wrestling friends. Maybe you
+         want to create a wrestler for your career mode? Essentially it is used to be for anything wrestling related where you want to get a quick name and brief profile.
+         You get a crowd status such heel or babyface, a name for a finisher which you can decide what you think that finisher would look like. You also get a random wrestling style that the wrestler would use in the ring.   
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Why use this random wrestler name generator?
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        This aims to offer more than a simple random name, but a an overview of what that wrestler's profile might look like, such as their finishing move and wrestling style. These bits of information
+        are not offered with many of the alternatives out there , but they are an important part of wrestler profile.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Are you affiliated with any wrestling promotion?
+        </button>
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+        Wrestlername.com is not affiliated with any particular promotion, we are just wrestling fans , who feel like this would be a cool tool to use when creating a random wrestler for whatever purpose. Maybe one day WWE, AEW, ROH or one of the other promotions, or some of the excellent indie promotions out there may want to use one of these characters. We can only hope it can be that successful.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingFour">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+          Why are there adverts on the site?
+        </button>
+      </h2>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
+        Wrestlername.com are trying to cover the cost of server space and maintenance with a small amount of revenue and we thank you for tolerating adverts which help us pay for this.
+    </div>
+  </div>
+</div>
+</section>
   </main>
   <footer class="text-center">
     <script src="assets/js/main.js">

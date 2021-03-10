@@ -1,6 +1,6 @@
 
 function numb() {
-    return Math.floor((Math.random()* 72) + 1);
+    return Math.floor((Math.random()* 82) + 1);
 }
 
 function smallnumber() {
@@ -86,7 +86,19 @@ Name = [
     "Mutley B Perfect",
     "Andrew Starr",
     "Concubine",
-    "Gomez Titan"
+    "Gomez Titan",
+    "Titan Doom",
+    "The Architect",
+    "Conspirator",
+    "Driller Phillips",
+    "The Pneumatic Thrill",
+    "The Funky Beatdown",
+    "Hop Slider",
+    "Buddy Sparks",
+    "The Tremberlor",
+    "Punchy Facedown",
+    "Roger Redbeard",
+
 
 ];
 
@@ -165,7 +177,25 @@ Finisher = [
     "Critical Condition",
     "Blue Star Collision",
     "End of Days",
-    "The Termination"
+    "The Termination",
+    "The Disco Beatdown",
+    "The Amplifier",
+    "The Flesh Eater",
+    "County Line Limbo",
+    "Phone Home",
+    "Prior Engagement",
+    "The Forensic Flop",
+    "The Deadly Medley",
+    "The Bear Trap",
+    "The Dastardly Driver",
+    "Deliah's Answer",
+    "Wasted Talent",
+    "Hounds of Hell",
+    "Up the junction",
+    "The Beetle Squeeze",
+    "The Mellow Squeeze",
+    "The Difference Maker",
+    "Bouncebackability"
 ];
 
 Style = [
