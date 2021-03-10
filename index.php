@@ -5,9 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Wrestler Random Name Generator can be used to generate your own wrestler name. You can use this for fun with your wrestling friends. Maybe you
-         want to create a wrestler for your career mode? Essentially it is used to be for anything wrestling related where you want to get a quick name and brief profile.
-         You get a crowd status such heel or babyface, a name for a finisher which you can decide what you think that finisher would look like. You also get a random wrestling style that the wrestler would use in the ring. ">
+  <meta name="description" content="Random Wrestler Name Generator at wrestlername.com can be used to generate your own wrestler name. Try it out, it's free.">
   <title>Random Wrestler Name Generator | Generator</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
