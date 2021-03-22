@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Random Wrestler Name Generator at wrestlername.com can be used to generate your own wrestler name. Try it out, it's free.">
-  <title>Random Wrestler Name Generator | Generator</title>
+  <title>Random Wrestler Generator | Wrestlername.com</title>
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -36,7 +36,7 @@
   </header>
   <main>
     <div class="jumbotron">
-      <h1 class="display-4">Wrestler Generator</h1>
+      <h1 class="display-4">Random Wrestler Generator</h1>
       <p class="lead">Quick and easy tool to generate a Random Wrestler Profile.</p>
       <hr class="my-4">
       <p>Click below to generate your random wrestler name.</p>
@@ -45,7 +45,7 @@
     <div class="card mb-3 mx-auto"id="wrestler" style="max-width: 540px;">
       <div class="row no-gutters">
         <div class="col-md-4">
-          <img src="assets/img/ring.png" class="card-img p-2 my-3 mx-1" alt="Wrestling Ring Logo">
+          <img src="assets/img/ring.png" class="card-img p-2 my-3 mx-1" alt="Wrestler Random Generator">
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -74,13 +74,13 @@
         </button>
       </h2>
     </div>
-
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
         <p>
          Random Wrestler Generator can be used to generate your own wrestler name. You can use this for fun with your wrestling friends. Maybe you
-         want to create a wrestler for your career mode? Essentially it is used to be for anything wrestling related where you want to get a quick name and brief profile.
-         You get a crowd status such heel or babyface, a name for a finisher which you can decide what you think that finisher would look like. You also get a random wrestling style that the wrestler would use in the ring.   
+         want to create a wrestler for your career mode? Essentially random wrestler generator is used to be for anything wrestling related.To generate a random wrestler profile.
+         You get a crowd status such heel or babyface, a name for a finisher which you can decide what you think that finisher would look like. You also get a random wrestling style that the wrestler would use in the ring.
+          Have fun with your random wrestler profile.
         </p>
       </div>
     </div>
@@ -89,7 +89,7 @@
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Why use this random wrestler name generator?
+          Why use this random wrestler generator?
         </button>
       </h2>
     </div>
@@ -127,14 +127,34 @@
         Wrestlername.com are trying to cover the cost of server space and maintenance with a small amount of revenue and we thank you for tolerating adverts which help us pay for this.
     </div>
   </div>
+  <div class="card">
+    <div class="card-header" id="headingFour">
+      <h2 class="mb-0">
+        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+          Is this a wrestling finisher name generator?
+        </button>
+      </h2>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
+        Wrestlername.com includes Wrestling finisher name generator with the profile it generates , just discard the rest and use the finisher part of the wrestler.
+    </div>
+  </div>
+
 </div>
 </section>
+<section class="page-size">
+<h1>Wrestling Gimmick Generator</h1>
+<p>
+Some people may want to think of this as more of a wrestling gimmick generator, as it couples in the finisher name and the wrestler name which all are ingredients to a gimmick. For example could we imagine Mankind without the Mandible Claw? What about Sgt Slaughter without the Cobra Clutch? It goes to say that both the name and finisher go together as part of what is a wrestling gimmick.
+</p>
+</section>
+
   </main>
   <footer class="text-center">
     <script src="assets/js/main.js">
 
     </script>
-  
     &#169; Copyright Clark Brettell 2021
   </footer>
 </body>

@@ -25,3 +25,7 @@ header a:hover{
 header a img {
     width: 150px !important
 }
+
+.page-size{
+    padding: 20px;
+}
