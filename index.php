@@ -38,8 +38,8 @@
   </header>
   <main>
     <div class="jumbotron">
-      <h1 class="display-4">Time for live</h1>
-      <p class="lead">Clark Testing Things</p>
+      <h1 class="display-4">Random Wrestler Generator</h1>
+      <p class="lead">Generate a wrestler name and profile</p>
       <hr class="my-4">
       <p>Click below to generate your random wrestler name.</p>
       <a class="btn btn-primary btn-lg" id="generate" role="button">Generate Wrestler</a>
