@@ -38,7 +38,7 @@
   </header>
   <main>
     <div class="jumbotron">
-      <h1 class="display-4">Random Wrestler Generator</h1>
+      <h1 class="display-4">Pushing from the command line</h1>
       <p class="lead">Quick and easy tool to generate a Random Wrestler Profile.</p>
       <hr class="my-4">
       <p>Click below to generate your random wrestler name.</p>
