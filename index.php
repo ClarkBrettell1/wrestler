@@ -39,7 +39,7 @@
   <main>
     <div class="jumbotron">
       <h1 class="display-4">Pushing from the command line</h1>
-      <p class="lead">Clark Testing</p>
+      <p class="lead">Clark Testing Things</p>
       <hr class="my-4">
       <p>Click below to generate your random wrestler name.</p>
       <a class="btn btn-primary btn-lg" id="generate" role="button">Generate Wrestler</a>
